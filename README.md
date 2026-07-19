@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sparshkr0908/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Sparshkr0908/Leetcode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Sparshkr0908/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Sparshkr0908/Leetcode/tree/master/0344-reverse-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sparshkr0908/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sparshkr0908/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sparshkr0908/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Sparshkr0908/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Sparshkr0908/Leetcode/tree/master/0344-reverse-string) |
 ## Depth-First Search
 |  |
