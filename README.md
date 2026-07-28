@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Sparshkr0908/Leetcode/tree/master/0344-reverse-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sparshkr0908/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sparshkr0908/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Sparshkr0908/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Array
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Sparshkr0908/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sparshkr0908/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3457-eat-pizzas](https://github.com/Sparshkr0908/Leetcode/tree/master/3457-eat-pizzas) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Sparshkr0908/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sparshkr0908/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Sparshkr0908/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
