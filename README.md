@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Sparshkr0908/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Sparshkr0908/Leetcode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sparshkr0908/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Sparshkr0908/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sparshkr0908/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sparshkr0908/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3765-complete-prime-number](https://github.com/Sparshkr0908/Leetcode/tree/master/3765-complete-prime-number) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Sparshkr0908/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3765-complete-prime-number](https://github.com/Sparshkr0908/Leetcode/tree/master/3765-complete-prime-number) |
 ## Monotonic Stack
 |  |
