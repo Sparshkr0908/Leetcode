@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Sparshkr0908/Leetcode/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sparshkr0908/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Sparshkr0908/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Sparshkr0908/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sparshkr0908/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Sparshkr0908/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3765-complete-prime-number](https://github.com/Sparshkr0908/Leetcode/tree/master/3765-complete-prime-number) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sparshkr0908/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sparshkr0908/Leetcode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sparshkr0908/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Sparshkr0908/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sparshkr0908/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Array
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sparshkr0908/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Sparshkr0908/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sparshkr0908/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3765-complete-prime-number](https://github.com/Sparshkr0908/Leetcode/tree/master/3765-complete-prime-number) |
 ## Greedy
@@ -98,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sparshkr0908/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sparshkr0908/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Sparshkr0908/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3457-eat-pizzas](https://github.com/Sparshkr0908/Leetcode/tree/master/3457-eat-pizzas) |
 ## Sorting
 |  |
@@ -155,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/Sparshkr0908/Leetcode/tree/master/0197-rising-temperature) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Sparshkr0908/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
