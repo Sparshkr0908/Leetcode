@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sparshkr0908/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Sparshkr0908/Leetcode/tree/master/0013-roman-to-integer) |
 | [1386-cinema-seat-allocation](https://github.com/Sparshkr0908/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sparshkr0908/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sparshkr0908/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sparshkr0908/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Sparshkr0908/Leetcode/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/Sparshkr0908/Leetcode/tree/master/0486-predict-the-winner) |
