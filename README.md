@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sparshkr0908/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sparshkr0908/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Sparshkr0908/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Sparshkr0908/Leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Sparshkr0908/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/Sparshkr0908/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Sparshkr0908/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sparshkr0908/Leetcode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Sparshkr0908/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sparshkr0908/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Sparshkr0908/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sparshkr0908/Leetcode/tree/master/0344-reverse-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Sparshkr0908/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/Sparshkr0908/Leetcode/tree/master/1927-sum-game) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sparshkr0908/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Sparshkr0908/Leetcode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sparshkr0908/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sparshkr0908/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sparshkr0908/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
