@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sparshkr0908/Leetcode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Sparshkr0908/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1386-cinema-seat-allocation](https://github.com/Sparshkr0908/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Sparshkr0908/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sparshkr0908/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sparshkr0908/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sparshkr0908/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sparshkr0908/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Sparshkr0908/Leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sparshkr0908/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Sparshkr0908/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sparshkr0908/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sparshkr0908/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sparshkr0908/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/Sparshkr0908/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Sparshkr0908/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sparshkr0908/Leetcode/tree/master/2029-stone-game-ix) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Sparshkr0908/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sparshkr0908/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sparshkr0908/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sparshkr0908/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Sparshkr0908/Leetcode/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/Sparshkr0908/Leetcode/tree/master/2029-stone-game-ix) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/Sparshkr0908/Leetcode/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sparshkr0908/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sparshkr0908/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
