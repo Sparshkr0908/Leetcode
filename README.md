@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sparshkr0908/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sparshkr0908/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sparshkr0908/Leetcode/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/Sparshkr0908/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sparshkr0908/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Sparshkr0908/Leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Sparshkr0908/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sparshkr0908/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sparshkr0908/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sparshkr0908/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Sparshkr0908/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sparshkr0908/Leetcode/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Sparshkr0908/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0486-predict-the-winner](https://github.com/Sparshkr0908/Leetcode/tree/master/0486-predict-the-winner) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sparshkr0908/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sparshkr0908/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sparshkr0908/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sparshkr0908/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
