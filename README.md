@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Sparshkr0908/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Sparshkr0908/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sparshkr0908/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Sparshkr0908/Leetcode/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/Sparshkr0908/Leetcode/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/Sparshkr0908/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sparshkr0908/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Sparshkr0908/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sparshkr0908/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Sparshkr0908/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Sparshkr0908/Leetcode/tree/master/0322-coin-change) |
 | [0733-flood-fill](https://github.com/Sparshkr0908/Leetcode/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sparshkr0908/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Sparshkr0908/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sparshkr0908/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Sparshkr0908/Leetcode/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/Sparshkr0908/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/Sparshkr0908/Leetcode/tree/master/0322-coin-change) |
 | [0486-predict-the-winner](https://github.com/Sparshkr0908/Leetcode/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sparshkr0908/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Sparshkr0908/Leetcode/tree/master/0877-stone-game) |
@@ -394,4 +397,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Sparshkr0908/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Sparshkr0908/Leetcode/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Sparshkr0908/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
