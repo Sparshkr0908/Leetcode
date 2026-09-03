@@ -26,8 +26,6 @@ class Solution {
         int rootLeft = helperFcn(root.left);
         int rootRight = helperFcn(root.right);
 
-        int max = Math.max(rootLeft, rootRight) + 1;
-
-        return max;
+        return Math.max(rootLeft, rootRight) + 1;
     }
 }
