@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sparshkr0908/Leetcode/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/Sparshkr0908/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sparshkr0908/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Sparshkr0908/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sparshkr0908/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sparshkr0908/Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Sparshkr0908/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Sparshkr0908/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sparshkr0908/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Sparshkr0908/Leetcode/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/Sparshkr0908/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Sparshkr0908/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Sparshkr0908/Leetcode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Sparshkr0908/Leetcode/tree/master/0486-predict-the-winner) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sparshkr0908/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Sparshkr0908/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sparshkr0908/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sparshkr0908/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sparshkr0908/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
