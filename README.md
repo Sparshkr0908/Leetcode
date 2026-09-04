@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sparshkr0908/Leetcode/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/Sparshkr0908/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sparshkr0908/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Sparshkr0908/Leetcode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Sparshkr0908/Leetcode/tree/master/0486-predict-the-winner) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Sparshkr0908/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Sparshkr0908/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sparshkr0908/Leetcode/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Sparshkr0908/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sparshkr0908/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sparshkr0908/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Sparshkr0908/Leetcode/tree/master/0198-house-robber) |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sparshkr0908/Leetcode/tree/master/0062-unique-paths) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sparshkr0908/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
