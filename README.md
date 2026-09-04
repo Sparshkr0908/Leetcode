@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sparshkr0908/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sparshkr0908/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Sparshkr0908/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sparshkr0908/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Sparshkr0908/Leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Sparshkr0908/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Sparshkr0908/Leetcode/tree/master/0200-number-of-islands) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sparshkr0908/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Sparshkr0908/Leetcode/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Sparshkr0908/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sparshkr0908/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
