@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sparshkr0908/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sparshkr0908/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Sparshkr0908/Leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Sparshkr0908/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Sparshkr0908/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sparshkr0908/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sparshkr0908/Leetcode/tree/master/0217-contains-duplicate) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Sparshkr0908/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Sparshkr0908/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Sparshkr0908/Leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Sparshkr0908/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Sparshkr0908/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sparshkr0908/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Sparshkr0908/Leetcode/tree/master/0242-valid-anagram) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Sparshkr0908/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sparshkr0908/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Sparshkr0908/Leetcode/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/Sparshkr0908/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sparshkr0908/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sparshkr0908/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sparshkr0908/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sparshkr0908/Leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Sparshkr0908/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Sparshkr0908/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sparshkr0908/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sparshkr0908/Leetcode/tree/master/0242-valid-anagram) |
