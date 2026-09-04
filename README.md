@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sparshkr0908/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Sparshkr0908/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Sparshkr0908/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Sparshkr0908/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Sparshkr0908/Leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/Sparshkr0908/Leetcode/tree/master/0733-flood-fill) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Sparshkr0908/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Sparshkr0908/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sparshkr0908/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Sparshkr0908/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Sparshkr0908/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Sparshkr0908/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Sparshkr0908/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sparshkr0908/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Sparshkr0908/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Sparshkr0908/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Sparshkr0908/Leetcode/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
 |  |
@@ -410,4 +413,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Sparshkr0908/Leetcode/tree/master/0322-coin-change) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Sparshkr0908/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
