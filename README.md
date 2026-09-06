@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Sparshkr0908/Leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Sparshkr0908/Leetcode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Sparshkr0908/Leetcode/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/Sparshkr0908/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Sparshkr0908/Leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Sparshkr0908/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Sparshkr0908/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sparshkr0908/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Sparshkr0908/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sparshkr0908/Leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Sparshkr0908/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Sparshkr0908/Leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sparshkr0908/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/Sparshkr0908/Leetcode/tree/master/0198-house-robber) |
