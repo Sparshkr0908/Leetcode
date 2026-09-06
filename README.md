@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sparshkr0908/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sparshkr0908/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sparshkr0908/Leetcode/tree/master/0055-jump-game) |
+| [0064-minimum-path-sum](https://github.com/Sparshkr0908/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0088-merge-sorted-array](https://github.com/Sparshkr0908/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sparshkr0908/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Sparshkr0908/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sparshkr0908/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sparshkr0908/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Sparshkr0908/Leetcode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Sparshkr0908/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Sparshkr0908/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Sparshkr0908/Leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/Sparshkr0908/Leetcode/tree/master/0091-decode-ways) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sparshkr0908/Leetcode/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Sparshkr0908/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Sparshkr0908/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Sparshkr0908/Leetcode/tree/master/0733-flood-fill) |
 | [1260-shift-2d-grid](https://github.com/Sparshkr0908/Leetcode/tree/master/1260-shift-2d-grid) |
